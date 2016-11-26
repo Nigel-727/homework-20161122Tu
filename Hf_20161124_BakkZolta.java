@@ -1,9 +1,7 @@
-package Alkalom04_nov22K;
-
 /**
  * @author: Bakk Zoltán alias Nigel-727 <nigel727@gmail.com>
  */
-public class MyVéletlen {  //később: "EvenOddInRange.java"
+public class Hf_20161124_BakkZoltan {  
 // Feladatspecifikáció:
 // [a,b] intervallumban páros/páratlan véletlenszám generálása
 
