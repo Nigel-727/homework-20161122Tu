@@ -1,5 +1,3 @@
-package fejezet6;
-
 public class Hf_20161127_BakkZoltan { //házi feladat ekkorra: 20161127Su
 
   public static void main(String[] args) {
