@@ -33,7 +33,7 @@ public class Hf_20161124_BakkZoltan {
       //Generálásra fel!
       for (int i = 0; i < db; i++) {
         vél = Math.random();
-        ámosság = n_psplan(a, b, psVAGYplan);
+        ámosság = n_psplan(a, b, psVAGYplan); //
         //      System.out.println("ámosság = "+ámosság);
         min = első_psplan(a, psVAGYplan);
         //      System.out.println("min = "+min);
