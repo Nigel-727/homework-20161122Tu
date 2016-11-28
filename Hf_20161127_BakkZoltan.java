@@ -1,5 +1,5 @@
 public class Hf_20161127_BakkZoltan { //házi feladat ekkorra: 20161127Su
-
+// "Vizsgaeredmény Inspektor"
   public static void main(String[] args) {
     final int MAX_P = 10; //maximum ennyi pontot lehet elérni
     final int VIZSGÁZÓK_DB;
